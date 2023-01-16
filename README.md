@@ -1,1 +1,1 @@
-# aws-s3-bucket-config
+# aws-s3-bucket-lifecycle-config
